@@ -1,4 +1,4 @@
-# React E-commerce Website
+# MERN E-commerce (Cilory) Website
 
 ## Features
 
